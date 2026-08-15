@@ -5,7 +5,7 @@
 
 # Task
 
-<!-- Describe what the agent should do. -->
+Add a new file called add.ts with an add function that takes two args, and adds them.
 
 # Done
 
